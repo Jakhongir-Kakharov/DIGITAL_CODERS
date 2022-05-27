@@ -26,7 +26,7 @@
 - [4. Guruh bilan bajariladigan dasturlar(Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
 
 
-# Kirish #
+# Kirish # [[^]](#mundarija)
 
 Этот репозиторий содержит ВСЕ ЗАДАНИЯ по программе обучения от [французской школы программирования `Ecole 42`](https://www.42.fr/).
 
@@ -50,7 +50,7 @@
  
 
 
-# 1. IT MARKAZ HAQIDA #
+# 1. IT MARKAZ HAQIDA # [[^]](#mundarija)
 
 Здесь вы сможете ознакомиться с правилами, действующими в стенах Школы 42, узнаете о самом учебном курсе, прочтете о стандартах, по которым нужно будет писать код при решении заданий и проектов, а также же увидите все то, что поможет вам начать обучение програмированию по программе Школы 42.
 
@@ -97,7 +97,7 @@
 ---
 
 
-# 2. C DASTURLASH TILI INTENSIVI #
+# 2. C DASTURLASH TILI INTENSIVI # [[^]](#mundarija)
 
 Именно с этого бассейна начнётся обучение программированию в Школе 42.
 - Бассейн по Си: [[ en ]](./00_Piscine_C_(%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B))
@@ -121,14 +121,14 @@
 ---
 
 
-# 3. ASOSIY KURSLAR #
+# 3. ASOSIY KURSLAR # [[^]](#mundarija)
 
 [Проекты основного обучения](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/)  представляют собой следующий этап обучения программированию. Все они сгруппированы по направлениям, которые представлены в виде ветвей. Помните, что каждый последующий проект выбранной вами ветки сложнее предыдущего и может быть решен только с помощью навыков полученных в предыдущих проектах.
 
 Для продвижения по заданиям/проектам основного обучения Школы 42 используйте [карту проектов `Holy Graph`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) и [наглядную карту направлений `highlighting_branches`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/highlighting_branches_Holy_Graph.gif)
 
 ---
-> ### [[GLOBAL - umumiy qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/)
+> ### [[GLOBAL - umumiy qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/) [[^]](#mundarija)
 ---
 >> #### С этой ветки начинается основное обучение.
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/00____42_commandements) 42_commandements
