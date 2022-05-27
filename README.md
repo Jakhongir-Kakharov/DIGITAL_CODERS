@@ -9,7 +9,7 @@
 - [1. IT markaz haqida](#1-it-markaz-haqida)
 - [2. C dasturlash tili intensivi](#2-c-dasturlash-tili-intensivi)
 - [3. Asosiy kurslar](#3-asosiy-kurslar)
-  - [Umumiy yo'nalish](#global---umumiy-yo\'nalish)
+  - [Umumiy yonalish](#global---umumiy-yonalish)
   - [Ветвь UNIX](#ветвь-unix)
   - [Ветвь Алгоритмов](#ветвь-алгоритмов)
   - [Ветвь Графики](#ветвь-графики)
@@ -126,7 +126,7 @@
 Для продвижения по заданиям/проектам основного обучения Школы 42 используйте [карту проектов `Holy Graph`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) и [наглядную карту направлений `highlighting_branches`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/highlighting_branches_Holy_Graph.gif)
 
 ---
-> ### [[GLOBAL - Umumiy yo\'nalish]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/)
+> ### [[GLOBAL - umumiy yonalish]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/)
 ---
 >> #### С этой ветки начинается основное обучение.
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/00____42_commandements) 42_commandements
