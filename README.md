@@ -1,11 +1,11 @@
-<h2 align="center"><code>Digital Corders IT Astute</code></h2>
+<h1 align="center"><code>Digital Corders IT Astute</code></h1>
 
 ![42 School](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/src/header/header_004_.png)
 
 
 > ###### _Chose language: [[ ru ]](README_ru.md) [[ en ]](README_en.md)_
 
-- [Введение](#введение)
+- [Введение](#Kirish)
 - [0. Документация по школе](#0-документация-по-школе)
 - [1. Бассейн по языку Си](#1-бассейн-по-языку-си)
 - [2. Основное обучение](#2-основное-обучение)
