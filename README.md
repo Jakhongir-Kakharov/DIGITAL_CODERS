@@ -5,16 +5,16 @@
 
 > ###### _Chose language: [[ ru ]](README_ru.md) [[ en ]](README_en.md)_
 
-# MUNDARIJA #
+# Mundarija #
 
-- [Kirish](#Kirish)
+- [Kirish](#kirish)
 - [1. IT markaz haqida](#1-it-markaz-haqida)
 - [2. C dasturlash tili intensivi](#2-c-dasturlash-tili-intensivi)
 - [3. Asosiy kurslar](#3-asosiy-kurslar)
-  - [Umumiy yo\`nalish](#global---umumiy-yo\`nalish)
-  - [Ветвь UNIX](#ветвь-unix)
-  - [Ветвь Алгоритмов](#ветвь-алгоритмов)
-  - [Ветвь Графики](#ветвь-графики)
+  - [Umumiy qadamlar](#global---umumiy-qadamlar)
+  - [UNIX sari qadamlar](#unix-sari-qadamlar)
+  - [Algoritmlar sari qadamlar](#algoritmlar-sari-qadamalar)
+  - [Grafika sari qadamlar](#grafika-sari-qadamlar)
   - [WEB ветвь](#web-ветвь)
   - [OCaml ветвь](#ocaml-ветвь)
   - [Android & iOS ветвь](#android--ios-ветвь)
@@ -128,7 +128,7 @@
 Для продвижения по заданиям/проектам основного обучения Школы 42 используйте [карту проектов `Holy Graph`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) и [наглядную карту направлений `highlighting_branches`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/highlighting_branches_Holy_Graph.gif)
 
 ---
-> ### [[GLOBAL - umumiy yo\`nalish]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/)
+> ### [[GLOBAL - umumiy qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/)
 ---
 >> #### С этой ветки начинается основное обучение.
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/00____42_commandements) 42_commandements
@@ -141,7 +141,7 @@
 ---
 
 
-> ### [[Ветвь UNIX]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/01_Unix/)
+> ### [[UNIX sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/01_Unix/)
 ---
 >> #### Эта ветвь содержит в себе несколько направлений: Unix, Kernel, Virus, Security, Network.
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/01_Unix/00________ft_ls) ft_ls
@@ -198,7 +198,7 @@
 
 
 
-> ### [[Ветвь Алгоритмов]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/02_Algorithmic/)
+> ### [[Algoritmlar sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/02_Algorithmic/)
 ---
 >> #### Эта ветвь содержит в себе несколько  направлений: Algorithms, Data Science, Cryptography.
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/02_Algorithmic/00____ft_printf) ft_printf
@@ -226,7 +226,7 @@
 
 
 
-> ### [[Ветвь Графики]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/03_Graphic/)
+> ### [[Grafika sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/03_Graphic/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/03_Graphic/00____fdf_(ft_wireframe)) FDF
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/03_Graphic/01____fractol_(ft_fractal)) Fract'Ol
