@@ -29,25 +29,25 @@
 
 [[mundarija]](#mundarija)
 
-Этот репозиторий содержит ВСЕ ЗАДАНИЯ по программе обучения от [французской школы программирования `Ecole 42`](https://www.42.fr/).
+Ushbu repozitoriya fransiyadagi [`Ecole 42` dasturlash maktabi](https://www.42.fr/) o'quv darsliklari va shaxsiy qo'shimchalar asosida to'plangan.
 
-Проекты и задания позволят вам самостоятельно развить навыки программирования, а практический опыт и знания, полученные при выполнении заданий и проектов Школы 42, дадут вам необходимую основу для профессиональной интеграции, помогая с нуля получить востребованную профессию. 
+Loyihalar va topshiriqlar sizga dasturlash ko‘nikmalarini mustaqil ravishda rivojlantirish imkonini beradi, Digital Codersning topshiriqlari va loyihalarini bajarishda olingan amaliy tajriba va bilimlar sizga kasbiy rivojlanish uchun zarur asos yaratadi, noldan izlanayotgan kasbga ega bo‘lishingizga yordam beradi. 
 
-Последовательно двигаясь по направлениям, языкам и учебным проектам Школы 42, используя [карту проектов `Holy Graph`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png), вы сформируете у себя фундаментальные технические навыки:
+ [Loyihalar xaritasidan `Holy Graph`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) foydalanib, o'quv dasturining yo'nalishlari, tillari va ta'lim loyihalari bo'ylab izchil harakat qilish bilan siz o'zingizda dastlabki texnik bilimlarni shakllantirasiz:
 
-- Навыки системного программирования.
-- Знание и понимание сути операционных систем, сетей, облаков и содержащихся в них служб.
-- Навыки системного и сетевого администрирования.
-- Навыки информационной безопасности.
-- Навыки по AI.
-- Навыки Mobile Dev.
-- Навыки работы с графикой.
-- Навыки WEB разработки.
-- Навыки Network.
-- Навыки БД и Данных.
-- и т.д.
+- Tizimni dasturlash ko'nikmalari.
+- Operatsion tizimlar, tarmoqlar, bulutlar va ular tarkibidagi xizmatlarning mohiyatini bilish va tushunish.
+- Tizim va tarmoqni boshqarish ko'nikmalari.
+- Axborot xavfsizligi ko'nikmalari.
+- AI qobiliyatlari.
+- Mobil ishlab chiqarish qobiliyatlari.
+- Grafika qobiliyatlari.
+- WEB ishlab chiqish ko'nikmalari.
+- Tarmoq qobiliyatlari.
+- Ma'lumotlar bazasi va ma'lumotlar bilan ishlash ko'nikmalari.
+- va hokazo.
 
-Программа обучения Школы 42 индивидуализирована. Здесь каждый прогрессирует сам по себе, в своем собственном темпе, а не в соответствии со всем классом студентов (где самый поздний элемент замедляет работу всей группы), получая таким образом своё собственное понимание парадигм программирования.
+O'quv rejasi individuallashtirilgan. Bu yerda har bir o‘quvchini butun sinf bilan emas, balki o‘zicha, o‘z tezligida rivojlanadi, shu bilan dasturlash paradigmalari haqida o‘z tushunchasiga ega bo‘ladi.
  
 # 1. IT MARKAZ HAQIDA # 
 
