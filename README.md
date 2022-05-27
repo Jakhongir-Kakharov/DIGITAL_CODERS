@@ -13,17 +13,17 @@
 - [3. Asosiy kurslar](#3-asosiy-kurslar)
   - [Umumiy qadamlar](#global---umumiy-qadamlar)
   - [UNIX sari qadamlar](#unix-sari-qadamlar)
-  - [Algoritmlar sari qadamlar](#algoritmlar-sari-qadamalar)
+  - [Algoritmlar sari qadamlar](#algoritmlar-sari-qadamlar)
   - [Grafika sari qadamlar](#grafika-sari-qadamlar)
-  - [WEB ветвь](#web-ветвь)
-  - [OCaml ветвь](#ocaml-ветвь)
-  - [Android & iOS ветвь](#android--ios-ветвь)
-  - [C++ ветвь](#c-ветвь)
-  - [Системное & Сетевое Администрирование](#системное--сетевое-администрирование)
-  - [AI Projects - Искуственный интелект](#ai-projects---искуственный-интелект)
-  - [Side Projects - Сторонние Проекты](#side-projects---сторонние-проекты)
-- [3. Oстальные бассейны Школы 42](#3-остальные-бассейны-школы-42)
-- [4. Групповые проекты Школы 42(Rushes - миниХАКАТОНЫ)](#4-групповые-проекты-школы-42rushes---минихакатоны)
+  - [WEB dasturlash sari qadamlar](#web-dasturlash-sari-qadamlar)
+  - [OCaml sari qadamlar](#ocaml-sari-qadamlar)
+  - [Android & iOS sari qadamlar](#android--ios-sari-qadamlar)
+  - [C++ sari qadamlar](#c-sari-qadamlar)
+  - [Tizim va tarmoq administratori](#izim-va-tarmoq-administratori)
+  - [AI Projects - Suniy ong](#ai-projects---suniy-ong)
+  - [Va boshqa kurslar](#va-bochqa-dasturlar)
+- [3. Boshqa intensiv kurslari](#3-boshqa-intensiv-kurslari)
+- [4. Guruh bilan bajariladigan dasturlar(Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
 
 
 # Kirish #
@@ -245,7 +245,7 @@
 
 
 
-> ### [[WEB ветвь]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/04_Web/)
+> ### [[WEB dasturlash sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/04_Web/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/04_Web/00____piscine_php) piscine PHP
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/04_Web/01____camagru) Camagru
@@ -259,7 +259,7 @@
 
 
 
-> ### [[Системное & Сетевое Администрирование]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/)
+> ### [[Tizim va tarmoq administratori]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/00____init) init
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/01____docker-1) docker-1
@@ -272,7 +272,7 @@
 
 
 
-> ### [[Android & iOS ветвь]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/06_Android-iOS/)
+> ### [[Android & iOS sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/06_Android-iOS/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/06_Android-iOS/00____piscine_swift_ios) piscine Swift iOS
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/06_Android-iOS/01____swifty-companion) Swifty Companion
@@ -286,7 +286,7 @@
 
 
 
-> ### [[C++ ветвь]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/07_CPP/)
+> ### [[C++ sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/07_CPP/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/07_CPP/00____module_cpp_(its_the_same_as_a_picsine_cpp_but_new_version)) modules С++ (это то же самое, что и `piscine C++`, но новая версия)
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/07_CPP/00____piscine_cpp_(its_the_same_as_a_module_cpp_but_old_version)) piscine C++ (это то же самое, что и `modules С++` но старая версия)
@@ -300,7 +300,7 @@
 
 
 
-> ### [[Unity ветвь]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/08_Unity/)
+> ### [[Unity sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/08_Unity/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/08_Unity/00____piscine_unity) piscine Unity
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/08_Unity/01____In_the_shadows) In the Shadows
@@ -309,7 +309,7 @@
 
 
 
-> ### [[OCaml ветвь]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/09_OCaml/)
+> ### [[OCaml sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/09_OCaml/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/09_OCaml/00____piscine_ocaml) piscine Ocaml
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/09_OCaml/01____ft_ality) ft_ality
@@ -319,7 +319,7 @@
 
 
 
-> ### [[Ai Projects - Искуственный интелект]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/10_Ai/)
+> ### [[Ai Projects - suniy ong]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/10_Ai/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/10_Ai/00____walking_marvin) walking_marvin
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/10_Ai/01____ft_sommelier) ft_sommelier
@@ -328,14 +328,14 @@
 
 
 
-> ### [[Side Projects - Сторонние Проекты]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/11_Side_Projects/)
+> ### [[Va boshqa kurslar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/11_Side_Projects/)
 ---
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/11_Side_Projects/00____ft_db) ft_db
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/11_Side_Projects/01____kift) KIFT
 ---
 
 
-# 3. ОСТАЛЬНЫЕ БАССЕЙНЫ ШКОЛЫ 42 #
+# 3. BOSHQA INTENSIV KURSLARI #
 
 > - [[>]](./01_Piscines__(O%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D1%8B_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D1%83%D1%80%D1%81%D0%B0_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)/piscine_php_symfony) PHP-Symphony
 > - [[>]](./01_Piscines__(O%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D1%8B_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D1%83%D1%80%D1%81%D0%B0_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)/piscine_python-django) Python-Django
@@ -345,7 +345,7 @@
 
 
 
-# 4. ГРУППОВЫЕ ПРОЕКТЫ ШКОЛЫ 42(Rushes - миниХАКАТОНЫ) #
+# 4. GURUH BILAN BAJARILADIGAN DASTURLAR #
 
 > - [[>]](./02_Rushes___(%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D1%83%D1%80%D1%81%D0%B0_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)/alcu.pdf) AlCu
 > - [[>]](./02_Rushes___(%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D1%83%D1%80%D1%81%D0%B0_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)/alum1.pdf) Alum1
