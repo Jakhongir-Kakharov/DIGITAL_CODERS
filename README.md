@@ -26,7 +26,9 @@
 - [4. Guruh bilan bajariladigan dasturlar(Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
 
 
-# Kirish # [[^]](#mundarija)
+# Kirish # 
+
+[[mundarija]](#mundarija)
 
 Этот репозиторий содержит ВСЕ ЗАДАНИЯ по программе обучения от [французской школы программирования `Ecole 42`](https://www.42.fr/).
 
@@ -50,7 +52,9 @@
  
 
 
-# 1. IT MARKAZ HAQIDA # [[^]](#mundarija)
+# 1. IT MARKAZ HAQIDA # 
+
+-[[mundarija]](#mundarija)
 
 Здесь вы сможете ознакомиться с правилами, действующими в стенах Школы 42, узнаете о самом учебном курсе, прочтете о стандартах, по которым нужно будет писать код при решении заданий и проектов, а также же увидите все то, что поможет вам начать обучение програмированию по программе Школы 42.
 
@@ -97,7 +101,9 @@
 ---
 
 
-# 2. C DASTURLASH TILI INTENSIVI # [[^]](#mundarija)
+# 2. C DASTURLASH TILI INTENSIVI # 
+
+-[[mundarija]](#mundarija)
 
 Именно с этого бассейна начнётся обучение программированию в Школе 42.
 - Бассейн по Си: [[ en ]](./00_Piscine_C_(%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B))
