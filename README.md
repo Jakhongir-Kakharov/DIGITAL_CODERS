@@ -6,8 +6,8 @@
 > ###### _Chose language: [[ ru ]](README_ru.md) [[ en ]](README_en.md)_
 
 - [Kirish](#Kirish)
-- [1. IT markaz haqida](#1-markaz-haqida)
-- [1. Бассейн по языку Си](#1-бассейн-по-языку-си)
+- [1. IT markaz haqida](#1-it-markaz-haqida)
+- [2. C dasturlash tili intensivi](#2-C-dasturlash-tili-intensivi)
 - [2. Основное обучение](#2-основное-обучение)
   - [Общая ветвь](#global---общая-ветвь)
   - [Ветвь UNIX](#ветвь-unix)
@@ -95,7 +95,7 @@
 ---
 
 
-# 1. БАССЕЙН ПО ЯЗЫКУ СИ #
+# 2. C DASTURLASH TILI INTENSIVI #
 
 Именно с этого бассейна начнётся обучение программированию в Школе 42.
 - Бассейн по Си: [[ en ]](./00_Piscine_C_(%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B))
