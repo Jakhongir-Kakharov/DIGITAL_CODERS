@@ -19,7 +19,7 @@
   - [OCaml sari qadamlar](#ocaml-sari-qadamlar)
   - [Android & iOS sari qadamlar](#android--ios-sari-qadamlar)
   - [C++ sari qadamlar](#c-sari-qadamlar)
-  - [Tizim va tarmoq administratori](#izim-va-tarmoq-administratori)
+  - [Unity sari qadamlar](#unity-sari-qadamlar)
   - [AI Projects - Suniy ong](#ai-projects---suniy-ong)
   - [Va boshqa kurslar](#va-bochqa-dasturlar)
 - [3. Boshqa intensiv kurslari](#3-boshqa-intensiv-kurslari)
