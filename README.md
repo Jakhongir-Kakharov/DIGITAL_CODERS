@@ -23,7 +23,7 @@
   - [AI Projects - Suniy ong](#ai-projects---suniy-ong)
   - [Va boshqa kurslar](#va-bochqa-dasturlar)
 - [4. Boshqa intensiv kurslari](#3-boshqa-intensiv-kurslari)
-- [5. Guruh bilan bajariladigan dasturlar(Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
+- [5. Guruh bilan bajariladigan loyihalar (Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
 
 # Kirish # 
 
