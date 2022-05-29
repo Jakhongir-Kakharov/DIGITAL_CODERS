@@ -33,19 +33,19 @@ Ushbu repozitoriya fransiyadagi [`Ecole 42` dasturlash maktabi](https://www.42.f
 
 Loyihalar va topshiriqlar sizga dasturlash ko‘nikmalarini mustaqil ravishda rivojlantirish imkonini beradi, Digital Codersning topshiriqlari va loyihalarini bajarishda olingan amaliy tajriba va bilimlar sizga kasbiy rivojlanish uchun zarur asos yaratadi, noldan izlanayotgan kasbga ega bo‘lishingizga yordam beradi. 
 
- [Loyihalar xaritasidan `Holy Graph`](./00_Projects__(Asosiy_kurs_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) foydalanib, o'quv dasturining yo'nalishlari, tillari va ta'lim loyihalari bo'ylab izchil harakat qilish bilan siz o'zingizda dastlabki texnik bilimlarni shakllantirasiz:
+ [Loyihalar xaritasidan `Holy Graph`](./02_Projects__(Asosiy_kurslar%20%7C%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) foydalanib, o'quv dasturining yo'nalishlari, tillari va ta'lim loyihalari bo'ylab izchil harakat qilish bilan siz o'zingizda dastlabki texnik bilimlarni shakllantirasiz:
 
 - Tizimni dasturlash ko'nikmalari.
 - Operatsion tizimlar, tarmoqlar, bulutlar va ular tarkibidagi xizmatlarning mohiyatini bilish va tushunish.
 - Tizim va tarmoqni boshqarish ko'nikmalari.
 - Axborot xavfsizligi ko'nikmalari.
-- AI qobiliyatlari.
-- Mobil ishlab chiqarish qobiliyatlari.
-- Grafika qobiliyatlari.
+- AI ko'nikmalari.
+- Mobil ishlab chiqarish ko'nikmalari.
+- Grafika ko'nikmalari.
 - WEB ishlab chiqish ko'nikmalari.
-- Tarmoq qobiliyatlari.
+- Tarmoq ko'nikmalari.
 - Ma'lumotlar bazasi va ma'lumotlar bilan ishlash ko'nikmalari.
-- va hokazo.
+- va hokazolar.
 
 O'quv rejasi individuallashtirilgan. Bu yerda har bir o‘quvchini butun sinf bilan emas, balki o‘zicha, o‘z tezligida rivojlanadi, shu bilan dasturlash paradigmalari haqida o‘z tushunchasiga ega bo‘ladi.
  
