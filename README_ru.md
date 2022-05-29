@@ -1,9 +1,8 @@
-<h1 align="center"><code>Digital Coders IT Astute</code></h1>
+<h1 align="center"><code>Digital Corders IT Astute</code></h1>
 
-![42 School](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/src/header/header_004_.png)
+![Digital Coders](./04_Norme___(Tartib_va_qoidalar%20%7C%20%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/src/header/header_004_.png)
 
-
-> ###### _Chose language: [[ uz ]](README.md) [[ en ]](README_en.md)_
+> ###### _Chose language: [[ uz ]](README.md) [[ ru ]](README_ru.md) [[ en ]](README_en.md)_
 
 - [Введение](#введение)
 - [0. Документация по школе](#0-документация-по-школе)
