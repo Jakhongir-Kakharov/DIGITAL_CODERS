@@ -19,7 +19,7 @@
   - [OCaml sari qadamlar](#ocaml-sari-qadamlar)
   - [Android & iOS sari qadamlar](#android--ios-sari-qadamlar)
   - [C++ sari qadamlar](#c-sari-qadamlar)
-  - [Tizim va tarmoq administratori](#tizim-va-tarmoq-administratori)
+  - [Tizim va tarmoq administratori sari qadamlar](#tizim-va-tarmoq-administratori-sari-qadamlar)
   - [AI Projects - Suniy ong](#ai-projects---suniy-ong)
   - [Va boshqa kurslar](#va-bochqa-dasturlar)
 - [4. Boshqa intensiv kurslari](#3-boshqa-intensiv-kurslari)
@@ -259,7 +259,7 @@ Bu yerda siz o'quv markaz qoidalari bilan tanishasiz va o'quv kurslari haqida bi
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/04_Web/04_2__red_tetris) Red Tetris
 > - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/04_Web/05____ft_transcendence) ft_transcendence
 ---
-> ### [[Tizim va tarmoq administratori]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/)
+> ### [[Tizim va tarmoq administratori sari qadamlar]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/)
 ---
 
 [[mundarija]](#mundarija)
