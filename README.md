@@ -1,7 +1,7 @@
 
 <h1 align="center"><code>Digital Corders IT Astute</code></h1>
 
-![41School](.//04_Norme___(Tartib_va_qoidalar | Нормы_и_Правила_Школы)/src/header/header_004_.png)
+![41School](./04_Norme___(Tartib_va_qoidalar | Нормы_и_Правила_Школы)/src/header/header_004_.png)
 
 > ###### _Chose language: [[ ru ]](README_ru.md) [[ en ]](README_en.md)_
 
