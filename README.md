@@ -71,7 +71,7 @@ Bu yerda siz o'quv markaz qoidalari bilan tanishasiz va o'quv kurslari haqida bi
 
  * C dasturlash tili kursi(0 dan boshlovchilar uchun) [[ ru ]](https://www.youtube.com/watch?v=kCYT19xs8mE&list=PLG9dLrY9JZKgXfVYlg_0lq6s-i5r0Lw0w&ab_channel=GenaANTG) 
 
- * C dasturlash tiliga oid juda yaxshi tuzilgan ingliz tilidagi videokurs ( yandex brauzer orqali boshqa tillarda ko'rishingiz mumkin )[[ en ]] (https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
+ * C dasturlash tiliga oid juda yaxshi tuzilgan ingliz tilidagi videokurs(yandex brauzer orqali boshqa tillarda ko'rishingiz mumkin) [[ en ]](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 
 <details>
 <summary> C dasturlash tiliga oid topshiriqlar ro'yxati: </summary>
