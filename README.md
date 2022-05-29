@@ -22,8 +22,8 @@
   - [Unity sari qadamlar](#unity-sari-qadamlar)
   - [AI Projects - Suniy ong](#ai-projects---suniy-ong)
   - [Va boshqa kurslar](#va-bochqa-dasturlar)
-- [3. Boshqa intensiv kurslari](#3-boshqa-intensiv-kurslari)
-- [4. Guruh bilan bajariladigan dasturlar(Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
+- [4. Boshqa intensiv kurslari](#3-boshqa-intensiv-kurslari)
+- [5. Guruh bilan bajariladigan dasturlar(Kichik XAKATONLAR)](#4-guruh-bilan-bajariladigan-dasturlar)
 
 # Kirish # 
 
@@ -33,7 +33,7 @@ Ushbu repozitoriya fransiyadagi [`Ecole 42` dasturlash maktabi](https://www.42.f
 
 Loyihalar va topshiriqlar sizga dasturlash ko‘nikmalarini mustaqil ravishda rivojlantirish imkonini beradi, Digital Codersning topshiriqlari va loyihalarini bajarishda olingan amaliy tajriba va bilimlar sizga kasbiy rivojlanish uchun zarur asos yaratadi, noldan izlanayotgan kasbga ega bo‘lishingizga yordam beradi. 
 
- [Loyihalar xaritasidan `Holy Graph`](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) foydalanib, o'quv dasturining yo'nalishlari, tillari va ta'lim loyihalari bo'ylab izchil harakat qilish bilan siz o'zingizda dastlabki texnik bilimlarni shakllantirasiz:
+ [Loyihalar xaritasidan `Holy Graph`](./00_Projects__(Asosiy_kurs_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/Holy_Graph.png) foydalanib, o'quv dasturining yo'nalishlari, tillari va ta'lim loyihalari bo'ylab izchil harakat qilish bilan siz o'zingizda dastlabki texnik bilimlarni shakllantirasiz:
 
 - Tizimni dasturlash ko'nikmalari.
 - Operatsion tizimlar, tarmoqlar, bulutlar va ular tarkibidagi xizmatlarning mohiyatini bilish va tushunish.
