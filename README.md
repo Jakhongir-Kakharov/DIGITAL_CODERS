@@ -57,24 +57,24 @@ Bu yerda siz o'quv markaz qoidalari bilan tanishasiz va o'quv kurslari haqida bi
 
  * Markaz o'quv kursi tasnifi: [[ en ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/cursus_manual.en.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/cursus_manual.ru.md)
 
- * Информация о самой системе `peer-to-peer` обучения: [[ en ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/the_art_of_peer_evaluation.EN.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/the_art_of_peer_evaluation.RU.md)
+ * `Peer-to-peer` o'qish uslubi haqida: [[ en ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/the_art_of_peer_evaluation.EN.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/the_art_of_peer_evaluation.RU.md)
 
- * Подсказки по `Git` для взаимодействия с репозиторием в `Vogsphere`: [[ fr ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/vogsphere.git.EN.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/vogsphere.git.RU.md)
+ * `Git` bilan `Vogsphere` repozitoriyasida ishlash: [[ fr ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/vogsphere.git.EN.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/vogsphere.git.RU.md)
 
- * Интерактивный тур, который познакомит вас с основами Git [[ru]](https://githowto.com/ru)
+ * Git bilan tanishuv, kichik sayohat: [[ru]](https://githowto.com/ru)
 
- * Нормы, описывающие то, как нужно писать код: [[ fr ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/norme_1_8.FR.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/norme_1_8.RU.md)
+ * Kodni yozish talablari haqida yo'riqnoma: [[ fr ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/norme_1_8.FR.pdf) [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/norme_1_8.RU.md)
 
- * Проверка кода через `Norminette` [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/code-check_norminette.md)
+ * Kodni `Norminette` orqali tekshirish tartibi: [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/code-check_norminette.md)
 
- * 10 правил, для тех кто начинает плавать в бассейне [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/10_rules_for_piscine.md)
+ * Intensiv kursini boshlashdan avval bilish zarur bo'lgan 10 qoida: [[ ru ]](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/10_rules_for_piscine.md)
 
- * Видеокурс по языку Си(для тех кто начинает бассейн с нуля) [[ ru ]](https://www.youtube.com/watch?v=kCYT19xs8mE&list=PLG9dLrY9JZKgXfVYlg_0lq6s-i5r0Lw0w&ab_channel=GenaANTG) 
+ * C dasturlash tili kursi(0 dan boshlovchilar uchun) [[ ru ]](https://www.youtube.com/watch?v=kCYT19xs8mE&list=PLG9dLrY9JZKgXfVYlg_0lq6s-i5r0Lw0w&ab_channel=GenaANTG) 
 
- * Очень хорошо составленые видеоуроки по языку Си на английском языке (используйте яндекс браузер для просмотра этих видео на русском языке )[[ en ]] (https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
+ * C dasturlash tiliga oid juda yaxshi tuzilgan ingliz tilidagi videokurs ( yandex brauzer orqali boshqa tillarda ko'rishingiz mumkin )[[ en ]] (https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 
 <details>
-<summary> Список упражнений по программированию на языке Cи: </summary>
+<summary> C dasturlash tiliga oid topshiriqlar ro'yxati: </summary>
 
 0) https://fresh2refresh.com/c-programming/
 1) https://www.sanfoundry.com/simple-c-programs/
@@ -88,7 +88,7 @@ Bu yerda siz o'quv markaz qoidalari bilan tanishasiz va o'quv kurslari haqida bi
 </details>
 
 ---
-> Для ускорения процесса перевода и понимания содержимого, скачанных на компьютер `pdf` файлов с заданиями, используйте кроссплатформенный перевочик текста [`Crow Translate`](https://crow-translate.github.io/).(Помните, что символ перевода текста на следующую строку может восприниматься переводчиками как конец предложения!)
+> Tarjima jarayonini tezlashtirish va topshiriqlar berilgan `pdf` fayllardagi ma'lumotlarni tushunish uchun barcha platformalarda ishlaydigan tarjimondan foydalaning [`Crow Translate`](https://crow-translate.github.io/).(Помните, что символ перевода текста на следующую строку может восприниматься переводчиками как конец предложения!)
 ---
 > #### (!) Не торопитесь выполнять бассейн по Си, пока не прочли документацию.
 ---
